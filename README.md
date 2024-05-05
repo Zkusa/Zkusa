@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zkusa</h1>
 
-<h3 align="center"> I am a data science student, where I have been learning and applying machine learning and deep learning techniques to various projects. Mục tiêu của tôi là sử dụng các kỹ năng và kiến thức về khoa học dữ liệu của mình để đóng góp cho sự tiến bộ và đổi mới của AI ở Việt Nam và hơn thế nữa.</h3>
+<h3 align="center"> As a data science student, I have been immersing myself in the study and practical application of machine learning and deep learning techniques across diverse projects. My objective is to leverage my skills and knowledge in data science to contribute to the advancement and innovation of AI in Vietnam and beyond.</h3>
 
 </p>
 
