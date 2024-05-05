@@ -1,4 +1,9 @@
-*Y* *o* *o* *h* *o* *o*
+- **Y** (in blue)
+- **o** (in red)
+- **o** (in green)
+- **h** (in orange)
+- **o** (in purple)
+- **o** (in yellow)
 <!--
 **Zkusa/Zkusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
