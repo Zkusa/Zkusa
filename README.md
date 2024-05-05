@@ -1,8 +1,9 @@
-
-
-## Chữ chạy và thay đổi màu chữ
-<span style="color: blue; animation: color-change 1s infinite;">Y</span><span style="color: red; animation: color-change 1s infinite;">o</span><span style="color: green; animation: color-change 1s infinite;">o</span><span style="color: orange; animation: color-change 1s infinite;">o</span><span style="color: purple; animation: color-change 1s infinite;">o</span><span style="color: yellow; animation: color-change 1s infinite;">o</span><span style="color: blue; animation: color-change 1s infinite;">o</span><span style="color: red; animation: color-change 1s infinite;">o</span><span style="color: green; animation: color-change 1s infinite;">o</span><span style="color: orange; animation: color-change 1s infinite;">o</span><span style="color: purple; animation: color-change 1s infinite;">o</span><span style="color: yellow; animation: color-change 1s infinite;">o</span><span style="color: blue; animation: color-change 1s infinite;">o</span><span style="color: red; animation: color-change 1s infinite;">o</span><span style="color: green; animation: color-change 1s infinite;">o</span><span style="color: orange; animation: color-change 1s infinite;">o</span><span style="color: purple; animation: color-change 1s infinite;">o</span><span style="color: yellow; animation: color-change 1s infinite;">o</span><span style="color: blue; animation: color-change 
-
+<span style="color: blue; animation: color-change 1s infinite;">Y</span>
+<span style="color: red; animation: color-change 1s infinite;">o</span>
+<span style="color: green; animation: color-change 1s infinite;">o</span>
+<span style="color: orange; animation: color-change 1s infinite;">o</span>
+<span style="color: purple; animation: color-change 1s infinite;">o</span>
+<span style="color: yellow; animation: color-change 1s infinite;">o</span>
 
 <!--
 **Zkusa/Zkusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
