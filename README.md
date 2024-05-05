@@ -1,3 +1,5 @@
+```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,7 +36,6 @@
 <body>
   <!-- HTML element for the text -->
   <div class="yoooo">Y</div>
-
   <!-- JavaScript for duplicating the text -->
   <script>
     // Duplicate the text and adjust the number of 'o's
@@ -45,6 +46,7 @@
   </script>
 </body>
 </html>
+\```
 
 <!--
 **Zkusa/Zkusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
